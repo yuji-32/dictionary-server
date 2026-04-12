@@ -1,0 +1,42 @@
+[
+  {
+    "word": "run",
+    "meanings": ["走る", "運営する"],
+    "pos": "verb"
+  },
+  {
+    "word": "book",
+    "meanings": ["本", "予約する"],
+    "pos": "noun/verb"
+  },
+  {
+    "word": "study",
+    "meanings": ["勉強する", "研究する"],
+    "pos": "verb"
+  },
+  {
+    "word": "speak",
+    "meanings": ["話す"],
+    "pos": "verb"
+  },
+  {
+    "word": "tell",
+    "meanings": ["伝える", "話す"],
+    "pos": "verb"
+  },
+  {
+    "word": "say",
+    "meanings": ["言う"],
+    "pos": "verb"
+  },
+  {
+    "word": "big",
+    "meanings": ["大きい"],
+    "pos": "adjective"
+  },
+  {
+    "word": "small",
+    "meanings": ["小さい"],
+    "pos": "adjective"
+  }
+]

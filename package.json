@@ -1,0 +1,21 @@
+{
+  "name": "dictionary-server",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^16.4.5",
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.3.2",
+    "fast-xml-parser": "^5.4.2",
+    "openai": "^4.0.0"
+  }
+}
